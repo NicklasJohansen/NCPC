@@ -16,7 +16,6 @@ def pick_player(navneliste, rhyme_len, n):
     return spiller_i, rest
 
 
-
 #print(rotate(['Kalle','Lisa','Rakel'],3-1))
 #print(rotate(['Kalle','Rakel'],2-1))
 
