@@ -4,4 +4,4 @@ https://nordic.icpc.io/
 ### Ressource Folder
 - Problems
 - Explanatory slides
-- Solutions (C, Python, Java)
+- Solutions (C, C++, Python, Java)
