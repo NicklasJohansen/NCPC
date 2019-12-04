@@ -1,7 +1,4 @@
-# Nordic Collegiate Programming Contest 2019
-https://nordic.icpc.io/
+# Initial page
 
-### Ressource Folder
-- Problems
-- Explanatory slides
-- Solutions (C, C++, Python, Java)
+123
+
